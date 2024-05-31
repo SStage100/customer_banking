@@ -46,6 +46,8 @@ Contributing:
 4. Push to the branch (git push origin feature-name).
 5. Create a pull request.
 
+Enjoy the code and hope it helps you make things simple.
+
 Contact Information:
 For questions or issues, email me at sandokan.stage@du.edu
 
